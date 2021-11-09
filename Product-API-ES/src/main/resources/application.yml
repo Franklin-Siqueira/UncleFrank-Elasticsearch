@@ -1,0 +1,8 @@
+spring:
+
+  application:
+    name: Product-API-ES
+
+  cloud:
+    config:
+      uri: http://localhost:8888
