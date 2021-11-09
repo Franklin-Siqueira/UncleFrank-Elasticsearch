@@ -71,14 +71,11 @@ IntelliJ-Idea-CE Community-Edition Microserviços Microservices Introduction Jav
 ---
 #### Arquivo de Configuração
 
-Antes de compilar e rodar os arquivos dos pacotes contidos em [controllers](https://github.com/Franklin-Siqueira/UncleFrank-JDBC/tree/master/src/main/java/controllers),
-é necessário criar o arquivo persistence.xml, dentro do pacote resources, pasta META-INF. O conteúdo deste arquivo deverá ser como o código apresentado no pacote [resources](https://github.com/Franklin-Siqueira/UncleFrank-JDBC/tree/master/src/main/resources).
+Antes de compilar...
 
-#### Persistence Settings XML File
+#### Settings File
 
-Before compiling and running any files at [controllers](https://github.com/Franklin-Siqueira/UncleFrank-JDBC/tree/master/src/main/java/controllers),
-create a new directory /META-INF at the [resources](https://github.com/Franklin-Siqueira/UncleFrank-JDBC/tree/master/src/main/resources) package and
-add a new file **persistence.xml** with its contents copied from the previous link.
+Before compiling...
 
 [Back to Contents](#contents)
 
@@ -96,7 +93,7 @@ This sample code is released using the MIT license. For more information see the
 #### Cloning:
 
 ```shell
-git clone git@github.com:Franklin-Siqueira/UncleFrank-JDBC.git
+git clone git@github.com:Franklin-Siqueira/UncleFrank-Elasticsearch.git
 ```
 
 [Back to Contents](#contents)
