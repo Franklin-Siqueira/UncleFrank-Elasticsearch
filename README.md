@@ -4,7 +4,7 @@
 
 ---
 
-(em desenvolvimento | developing)
+(developing | em desenvolvimento)
 
 
 #### Contents
@@ -42,7 +42,7 @@
 #### **About this project**
 <br/>
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Franklin-Siqueira/UncleFrank-JDBC/graphs/commit-activity) [![GitLab last commit](https://badgen.net/github/last-commit/Franklin-Siqueira/UncleFrank-JDBC/)](https://github.com/Franklin-Siqueira/UncleFrank-JDBC/-/commits)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/graphs/commit-activity) [![GitLab last commit](https://badgen.net/github/last-commit/Franklin-Siqueira/UncleFrank-Elasticsearch/)](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/-/commits)
 
 *_Resumo:_*
 
@@ -98,6 +98,6 @@ git clone git@github.com:Franklin-Siqueira/UncleFrank-Elasticsearch.git
 
 [Back to Contents](#contents)
 
-[repoLicense]:https://github.com/Franklin-Siqueira/UncleFrank-JDBC/blob/master/LICENSE.md
+[repoLicense]: https://github.com/Franklin-Siqueira/UncleFrank-JDBC/blob/master/LICENSE.md
 [repoName]: https://github.com/Franklin-Siqueira/UncleFrank-JDBC/blob/master/LICENSE.md
 [repoNameShort]: https://github.com/Franklin-Siqueira/UncleFrank-JDBC
