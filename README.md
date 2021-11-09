@@ -74,13 +74,15 @@ IntelliJ-Idea-CE Community-Edition Microserviços Microservices Introduction Jav
 
 ##### Services
 
-[Server Configuration](../tree/master/Product-API-ES)
+[Discovery Service](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/DiscoveryService)
 
-[Gateway](../tree/master/Product-API-ES)
+[Server Configuration](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/ConfigServer)
 
-[Product API](../tree/master/Product-API-ES)
+[Gateway](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/Gateway)
 
-[Shopping Cart API](../tree/master/ShoppingCart)
+[Product API](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/Product-API-ES)
+
+[Shopping Cart API](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/ShoppingCart)
 
 [Back to Contents](#contents)
 
