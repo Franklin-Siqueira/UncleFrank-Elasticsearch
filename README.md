@@ -13,6 +13,8 @@
 
 [About this Project](#about-this-project)
 
+[Project Contents](#project-contents)
+
 [Requisitos de Ambiente](#requisitos-de-ambiente)
 
 [License](#license)
@@ -83,6 +85,8 @@ IntelliJ-Idea-CE Community-Edition Microserviços Microservices Introduction Jav
 [Product API](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/Product-API-ES)
 
 [Shopping Cart API](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/ShoppingCart)
+
+Use the links above to get directly to their respective services.
 
 [Back to Contents](#contents)
 
