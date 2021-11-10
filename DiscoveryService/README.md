@@ -1,6 +1,6 @@
 ## Exercises | Developing Microservices with Spring
 
-## Product API | Product-API-ES
+## Discover API | DiscoverService
 
 ### Exercícios | Desenvolvendo Microserviços com Spring
 
@@ -52,13 +52,13 @@
 
 Este repositório contém os arquivos criados durante o curso **Microsserviços em Spring Cloud com Java**. O curso foi ministrado por [Oswaldo Neto](https://github.com/oswaldoneto) e oferecido pela [Digital Innovation One](https://digitalinnovation.one/sign-in), como parte do bootcamp *_Capgemini Fullstack Java and Angular_*.
 
-Aqui, os arquivos referentes ao microserviço disponibilizado pela **API de produtos** são criados e configurados. 
+Aqui, os arquivos referentes ao ... 
 
 *_Abstract:_*
 
 This repository contains the files created in the Microsserviços em **Spring Cloud com Java course**. The course is instructed by [Oswaldo Neto](https://github.com/oswaldoneto) and is part of the *_Capgemini Fullstack Java and Angular_* bootcamp, sponsored by [Digital Innovation One](https://digitalinnovation.one/sign-in).
 
-Here, the files related to the **products API** microservice are created and configured. 
+Here, the files related to the ... 
 
 *_Keywords:_*
 
@@ -81,15 +81,9 @@ IntelliJ-Idea-CE Community-Edition Microserviços Microservices Introduction Jav
 
 #### Packages
 
-[Config](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/Product-API-ES/src/main/java/siqueira/franklin/ProductAPIES/config)
+[Discovery Service](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/DiscoveryService/src/main/java/siqueira/franklin/DiscoveryService)
 
-[Controller](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/Product-API-ES/src/main/java/siqueira/franklin/ProductAPIES/controller)
-
-[Model](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/Product-API-ES/src/main/java/siqueira/franklin/ProductAPIES/model)
-
-[Repository](https://github.com/Franklin-Siqueira/UncleFrank-Elasticsearch/tree/master/Product-API-ES/src/main/java/siqueira/franklin/ProductAPIES/repository)
-
-Use the links above to get directly to their respective packages.
+Use the links above to get directly to their respective package.
 
 [Back to Contents](#contents)
 
